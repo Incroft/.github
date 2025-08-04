@@ -53,11 +53,6 @@ We believe in the power of collaboration and welcome contributions from the comm
 - 🔀 **Pull Requests** - Contribute code improvements
 - ⭐ **Star Projects** - Show support for projects you find useful
 
-## 📞 Connect With Us
-
-- 🌐 **Website**: [tech.incroft.com](https://www.tech.incroft.com/)
-- 📧 **Email**: info@incroft.com
-
 ## 🎯 Our Mission
 
 *"To leverage technology as a force for positive change, creating solutions that empower businesses and communities to thrive in the digital age."*
